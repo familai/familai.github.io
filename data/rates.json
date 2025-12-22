@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-22T18:23:02.140763",
+  "updatedAt": "2025-12-22T18:28:52.367114",
   "metrics": [
     {
       "id": "tnx",
@@ -1412,7 +1412,7 @@
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 6.125,
+      "value": 6.25,
       "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
@@ -1421,7 +1421,7 @@
       "history": [
         {
           "date": "2025-12-22",
-          "value": 6.125
+          "value": 6.25
         }
       ]
     }
