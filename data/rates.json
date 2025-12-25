@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-24T08:39:34.895482",
+  "updatedAt": "2025-12-25T08:38:18.796167",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.169,
-      "change": 0.0,
+      "value": 4.136,
+      "change": -0.033,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1022,14 +1022,18 @@
         {
           "date": "2025-12-23",
           "value": 4.169
+        },
+        {
+          "date": "2025-12-24",
+          "value": 4.136
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.21,
-      "change": -0.01,
+      "value": 6.18,
+      "change": -0.03,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1246,6 +1250,10 @@
         {
           "date": "2025-12-18",
           "value": 6.21
+        },
+        {
+          "date": "2025-12-24",
+          "value": 6.18
         }
       ]
     },
@@ -1376,8 +1384,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.24,
-      "change": 0.0,
+      "value": 6.21,
+      "change": -0.03,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1398,14 +1406,18 @@
         {
           "date": "2025-12-24",
           "value": 6.24
+        },
+        {
+          "date": "2025-12-25",
+          "value": 6.21
         }
       ]
     },
     {
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
-      "value": 6.25,
-      "change": 0.125,
+      "value": 6.125,
+      "change": -0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -1426,14 +1438,18 @@
         {
           "date": "2025-12-24",
           "value": 6.25
+        },
+        {
+          "date": "2025-12-25",
+          "value": 6.125
         }
       ]
     },
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 6.25,
-      "change": 0.0,
+      "value": 6.125,
+      "change": -0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -1450,6 +1466,10 @@
         {
           "date": "2025-12-24",
           "value": 6.25
+        },
+        {
+          "date": "2025-12-25",
+          "value": 6.125
         }
       ]
     }
