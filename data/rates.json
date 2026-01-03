@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-02T08:39:02.101229",
+  "updatedAt": "2026-01-03T08:36:37.114678",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.163,
-      "change": 0.033,
+      "value": 4.187,
+      "change": 0.024,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1042,6 +1042,10 @@
         {
           "date": "2025-12-31",
           "value": 4.163
+        },
+        {
+          "date": "2026-01-02",
+          "value": 4.187
         }
       ]
     },
@@ -1340,8 +1344,8 @@
     {
       "id": "fed_funds",
       "name": "Federal Funds Rate",
-      "value": 3.88,
-      "change": -0.21,
+      "value": 3.72,
+      "change": -0.16,
       "unit": "%",
       "description": "Interest rate at which depository institutions trade federal funds.",
       "source": "FRED (St. Louis Fed)",
@@ -1398,6 +1402,10 @@
         {
           "date": "2025-11-01",
           "value": 3.88
+        },
+        {
+          "date": "2025-12-01",
+          "value": 3.72
         }
       ]
     },
@@ -1462,6 +1470,10 @@
         {
           "date": "2026-01-02",
           "value": 6.2
+        },
+        {
+          "date": "2026-01-03",
+          "value": 6.2
         }
       ]
     },
@@ -1525,6 +1537,10 @@
         },
         {
           "date": "2026-01-02",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-03",
           "value": 6.125
         }
       ]
