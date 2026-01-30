@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-29T08:53:42.618622",
+  "updatedAt": "2026-01-30T08:52:32.602834",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.251,
-      "change": 0.028,
+      "value": 4.227,
+      "change": -0.024,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1114,14 +1114,18 @@
         {
           "date": "2026-01-28",
           "value": 4.251
+        },
+        {
+          "date": "2026-01-29",
+          "value": 4.227
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.09,
-      "change": 0.03,
+      "value": 6.1,
+      "change": 0.01,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1358,6 +1362,10 @@
         {
           "date": "2026-01-22",
           "value": 6.09
+        },
+        {
+          "date": "2026-01-29",
+          "value": 6.1
         }
       ]
     },
@@ -1497,7 +1505,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 6.16,
-      "change": 0.01,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1661,6 +1669,10 @@
         },
         {
           "date": "2026-01-29",
+          "value": 6.16
+        },
+        {
+          "date": "2026-01-30",
           "value": 6.16
         }
       ]
@@ -1830,6 +1842,10 @@
         {
           "date": "2026-01-29",
           "value": 6.125
+        },
+        {
+          "date": "2026-01-30",
+          "value": 6.125
         }
       ]
     },
@@ -1953,6 +1969,10 @@
         },
         {
           "date": "2026-01-29",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-30",
           "value": 6.25
         }
       ]
