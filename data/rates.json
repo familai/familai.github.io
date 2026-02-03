@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-02T08:56:17.626278",
+  "updatedAt": "2026-02-03T08:51:41.003299",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.241,
-      "change": 0.014,
+      "value": 4.275,
+      "change": 0.034,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1122,6 +1122,10 @@
         {
           "date": "2026-01-30",
           "value": 4.241
+        },
+        {
+          "date": "2026-02-02",
+          "value": 4.275
         }
       ]
     },
@@ -1440,8 +1444,8 @@
     {
       "id": "fed_funds",
       "name": "Federal Funds Rate",
-      "value": 3.72,
-      "change": -0.16,
+      "value": 3.64,
+      "change": -0.08,
       "unit": "%",
       "description": "Interest rate at which depository institutions trade federal funds.",
       "source": "FRED (St. Louis Fed)",
@@ -1502,14 +1506,18 @@
         {
           "date": "2025-12-01",
           "value": 3.72
+        },
+        {
+          "date": "2026-01-01",
+          "value": 3.64
         }
       ]
     },
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.16,
-      "change": 0.0,
+      "value": 6.17,
+      "change": 0.01,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1690,6 +1698,10 @@
         {
           "date": "2026-02-02",
           "value": 6.16
+        },
+        {
+          "date": "2026-02-03",
+          "value": 6.17
         }
       ]
     },
@@ -1870,6 +1882,10 @@
         {
           "date": "2026-02-02",
           "value": 6.125
+        },
+        {
+          "date": "2026-02-03",
+          "value": 6.125
         }
       ]
     },
@@ -2009,6 +2025,10 @@
         },
         {
           "date": "2026-02-02",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-03",
           "value": 6.25
         }
       ]
