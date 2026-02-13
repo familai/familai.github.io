@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-12T08:58:19.858825",
+  "updatedAt": "2026-02-13T08:56:12.625569",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.172,
-      "change": 0.025,
+      "value": 4.104,
+      "change": -0.068,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1154,14 +1154,18 @@
         {
           "date": "2026-02-11",
           "value": 4.172
+        },
+        {
+          "date": "2026-02-12",
+          "value": 4.104
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.11,
-      "change": 0.01,
+      "value": 6.09,
+      "change": -0.02,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1406,70 +1410,10 @@
         {
           "date": "2026-02-05",
           "value": 6.11
-        }
-      ]
-    },
-    {
-      "id": "cpi",
-      "name": "CPI (Inflation)",
-      "value": 326.03,
-      "change": 0.999,
-      "unit": "",
-      "description": "Consumer Price Index for All Urban Consumers: All Items.",
-      "source": "FRED (St. Louis Fed)",
-      "category": "indicator",
-      "history": [
-        {
-          "date": "2024-11-01",
-          "value": 316.449
         },
         {
-          "date": "2024-12-01",
-          "value": 317.603
-        },
-        {
-          "date": "2025-01-01",
-          "value": 319.086
-        },
-        {
-          "date": "2025-02-01",
-          "value": 319.775
-        },
-        {
-          "date": "2025-03-01",
-          "value": 319.615
-        },
-        {
-          "date": "2025-04-01",
-          "value": 320.321
-        },
-        {
-          "date": "2025-05-01",
-          "value": 320.58
-        },
-        {
-          "date": "2025-06-01",
-          "value": 321.5
-        },
-        {
-          "date": "2025-07-01",
-          "value": 322.132
-        },
-        {
-          "date": "2025-08-01",
-          "value": 323.364
-        },
-        {
-          "date": "2025-09-01",
-          "value": 324.368
-        },
-        {
-          "date": "2025-11-01",
-          "value": 325.031
-        },
-        {
-          "date": "2025-12-01",
-          "value": 326.03
+          "date": "2026-02-12",
+          "value": 6.09
         }
       ]
     },
@@ -1548,8 +1492,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.14,
-      "change": 0.03,
+      "value": 6.1,
+      "change": -0.04,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1770,6 +1714,10 @@
         {
           "date": "2026-02-12",
           "value": 6.14
+        },
+        {
+          "date": "2026-02-13",
+          "value": 6.1
         }
       ]
     },
@@ -1990,6 +1938,10 @@
         {
           "date": "2026-02-12",
           "value": 6.0
+        },
+        {
+          "date": "2026-02-13",
+          "value": 6.0
         }
       ]
     },
@@ -2166,6 +2118,74 @@
         {
           "date": "2026-02-12",
           "value": 6.125
+        },
+        {
+          "date": "2026-02-13",
+          "value": 6.125
+        }
+      ]
+    },
+    {
+      "id": "cpi",
+      "name": "CPI (Inflation)",
+      "value": 326.03,
+      "change": 0.999,
+      "unit": "",
+      "description": "Consumer Price Index for All Urban Consumers: All Items.",
+      "source": "FRED (St. Louis Fed)",
+      "category": "indicator",
+      "history": [
+        {
+          "date": "2024-11-01",
+          "value": 316.449
+        },
+        {
+          "date": "2024-12-01",
+          "value": 317.603
+        },
+        {
+          "date": "2025-01-01",
+          "value": 319.086
+        },
+        {
+          "date": "2025-02-01",
+          "value": 319.775
+        },
+        {
+          "date": "2025-03-01",
+          "value": 319.615
+        },
+        {
+          "date": "2025-04-01",
+          "value": 320.321
+        },
+        {
+          "date": "2025-05-01",
+          "value": 320.58
+        },
+        {
+          "date": "2025-06-01",
+          "value": 321.5
+        },
+        {
+          "date": "2025-07-01",
+          "value": 322.132
+        },
+        {
+          "date": "2025-08-01",
+          "value": 323.364
+        },
+        {
+          "date": "2025-09-01",
+          "value": 324.368
+        },
+        {
+          "date": "2025-11-01",
+          "value": 325.031
+        },
+        {
+          "date": "2025-12-01",
+          "value": 326.03
         }
       ]
     }
