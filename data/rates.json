@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T08:42:51.725063",
+  "updatedAt": "2026-02-15T08:43:27.795048",
   "metrics": [
     {
       "id": "tnx",
@@ -1565,7 +1565,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 6.04,
-      "change": -0.06,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1794,6 +1794,10 @@
         {
           "date": "2026-02-14",
           "value": 6.04
+        },
+        {
+          "date": "2026-02-15",
+          "value": 6.04
         }
       ]
     },
@@ -1801,7 +1805,7 @@
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
       "value": 5.875,
-      "change": -0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -2022,6 +2026,10 @@
         {
           "date": "2026-02-14",
           "value": 5.875
+        },
+        {
+          "date": "2026-02-15",
+          "value": 5.875
         }
       ]
     },
@@ -2205,6 +2213,10 @@
         },
         {
           "date": "2026-02-14",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-15",
           "value": 6.125
         }
       ]
