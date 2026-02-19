@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-18T08:57:37.044619",
+  "updatedAt": "2026-02-19T08:56:45.395957",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.052,
-      "change": -0.004,
+      "value": 4.079,
+      "change": 0.027,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1166,6 +1166,10 @@
         {
           "date": "2026-02-17",
           "value": 4.052
+        },
+        {
+          "date": "2026-02-18",
+          "value": 4.079
         }
       ]
     },
@@ -1568,8 +1572,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.04,
-      "change": 0.0,
+      "value": 6.05,
+      "change": 0.01,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1814,14 +1818,18 @@
         {
           "date": "2026-02-18",
           "value": 6.04
+        },
+        {
+          "date": "2026-02-19",
+          "value": 6.05
         }
       ]
     },
     {
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
-      "value": 5.875,
-      "change": 0.0,
+      "value": 6.0,
+      "change": 0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -2058,6 +2066,10 @@
         {
           "date": "2026-02-18",
           "value": 5.875
+        },
+        {
+          "date": "2026-02-19",
+          "value": 6.0
         }
       ]
     },
@@ -2257,6 +2269,10 @@
         },
         {
           "date": "2026-02-18",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-19",
           "value": 6.125
         }
       ]
