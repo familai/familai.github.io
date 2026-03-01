@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T08:39:14.074646",
+  "updatedAt": "2026-03-01T08:41:16.292365",
   "metrics": [
     {
       "id": "tnx",
@@ -1609,7 +1609,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 5.99,
-      "change": -0.01,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1894,6 +1894,10 @@
         {
           "date": "2026-02-28",
           "value": 5.99
+        },
+        {
+          "date": "2026-03-01",
+          "value": 5.99
         }
       ]
     },
@@ -1901,7 +1905,7 @@
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
       "value": 5.875,
-      "change": -0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -2178,6 +2182,10 @@
         {
           "date": "2026-02-28",
           "value": 5.875
+        },
+        {
+          "date": "2026-03-01",
+          "value": 5.875
         }
       ]
     },
@@ -2185,7 +2193,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.0,
-      "change": -0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -2417,6 +2425,10 @@
         },
         {
           "date": "2026-02-28",
+          "value": 6.0
+        },
+        {
+          "date": "2026-03-01",
           "value": 6.0
         }
       ]
