@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-02T08:56:39.279699",
+  "updatedAt": "2026-03-03T08:54:13.220210",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 3.962,
-      "change": -0.055,
+      "value": 4.048,
+      "change": 0.086,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1198,6 +1198,10 @@
         {
           "date": "2026-02-27",
           "value": 3.962
+        },
+        {
+          "date": "2026-03-02",
+          "value": 4.048
         }
       ]
     },
@@ -1537,7 +1541,7 @@
       "id": "fed_funds",
       "name": "Federal Funds Rate",
       "value": 3.64,
-      "change": -0.08,
+      "change": 0.0,
       "unit": "%",
       "description": "Interest rate at which depository institutions trade federal funds.",
       "source": "FRED (St. Louis Fed)",
@@ -1602,14 +1606,18 @@
         {
           "date": "2026-01-01",
           "value": 3.64
+        },
+        {
+          "date": "2026-02-01",
+          "value": 3.64
         }
       ]
     },
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 5.99,
-      "change": 0.0,
+      "value": 6.12,
+      "change": 0.13,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -1902,262 +1910,18 @@
         {
           "date": "2026-03-02",
           "value": 5.99
-        }
-      ]
-    },
-    {
-      "id": "boa_30yr",
-      "name": "Bank of America 30-Year Fixed",
-      "value": 6.0,
-      "change": 0.0,
-      "unit": "%",
-      "description": "Current 30-Year Fixed Rate from Bank of America.",
-      "source": "Bank of America",
-      "category": "lender",
-      "history": [
-        {
-          "date": "2025-12-22",
-          "value": 6.25
         },
         {
-          "date": "2025-12-23",
-          "value": 6.25
-        },
-        {
-          "date": "2025-12-24",
-          "value": 6.25
-        },
-        {
-          "date": "2025-12-25",
-          "value": 6.125
-        },
-        {
-          "date": "2025-12-26",
-          "value": 6.125
-        },
-        {
-          "date": "2025-12-27",
-          "value": 6.125
-        },
-        {
-          "date": "2025-12-29",
-          "value": 6.125
-        },
-        {
-          "date": "2025-12-31",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-02",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-04",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-05",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-07",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-08",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-09",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-10",
-          "value": 6.0
-        },
-        {
-          "date": "2026-01-11",
-          "value": 6.0
-        },
-        {
-          "date": "2026-01-12",
-          "value": 6.0
-        },
-        {
-          "date": "2026-01-13",
-          "value": 6.0
-        },
-        {
-          "date": "2026-01-14",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-15",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-19",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-20",
-          "value": 6.125
-        },
-        {
-          "date": "2026-01-21",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-22",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-26",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-27",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-28",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-29",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-30",
-          "value": 6.25
-        },
-        {
-          "date": "2026-01-31",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-01",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-02",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-03",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-04",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-05",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-06",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-07",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-08",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-09",
-          "value": 6.25
-        },
-        {
-          "date": "2026-02-11",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-12",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-13",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-14",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-15",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-16",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-17",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-18",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-19",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-20",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-21",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-22",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-23",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-24",
-          "value": 6.0
-        },
-        {
-          "date": "2026-02-25",
-          "value": 6.0
-        },
-        {
-          "date": "2026-02-26",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-27",
-          "value": 6.125
-        },
-        {
-          "date": "2026-02-28",
-          "value": 6.0
-        },
-        {
-          "date": "2026-03-01",
-          "value": 6.0
-        },
-        {
-          "date": "2026-03-02",
-          "value": 6.0
+          "date": "2026-03-03",
+          "value": 6.12
         }
       ]
     },
     {
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
-      "value": 5.875,
-      "change": 0.0,
+      "value": 6.0,
+      "change": 0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -2438,6 +2202,262 @@
         {
           "date": "2026-03-01",
           "value": 5.875
+        },
+        {
+          "date": "2026-03-03",
+          "value": 6.0
+        }
+      ]
+    },
+    {
+      "id": "boa_30yr",
+      "name": "Bank of America 30-Year Fixed",
+      "value": 6.125,
+      "change": 0.125,
+      "unit": "%",
+      "description": "Current 30-Year Fixed Rate from Bank of America.",
+      "source": "Bank of America",
+      "category": "lender",
+      "history": [
+        {
+          "date": "2025-12-22",
+          "value": 6.25
+        },
+        {
+          "date": "2025-12-23",
+          "value": 6.25
+        },
+        {
+          "date": "2025-12-24",
+          "value": 6.25
+        },
+        {
+          "date": "2025-12-25",
+          "value": 6.125
+        },
+        {
+          "date": "2025-12-26",
+          "value": 6.125
+        },
+        {
+          "date": "2025-12-27",
+          "value": 6.125
+        },
+        {
+          "date": "2025-12-29",
+          "value": 6.125
+        },
+        {
+          "date": "2025-12-31",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-02",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-04",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-05",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-07",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-08",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-09",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-10",
+          "value": 6.0
+        },
+        {
+          "date": "2026-01-11",
+          "value": 6.0
+        },
+        {
+          "date": "2026-01-12",
+          "value": 6.0
+        },
+        {
+          "date": "2026-01-13",
+          "value": 6.0
+        },
+        {
+          "date": "2026-01-14",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-15",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-19",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-20",
+          "value": 6.125
+        },
+        {
+          "date": "2026-01-21",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-22",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-26",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-27",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-28",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-29",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-30",
+          "value": 6.25
+        },
+        {
+          "date": "2026-01-31",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-01",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-02",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-03",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-04",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-05",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-06",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-07",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-08",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-09",
+          "value": 6.25
+        },
+        {
+          "date": "2026-02-11",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-12",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-13",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-14",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-15",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-16",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-17",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-18",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-19",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-20",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-21",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-22",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-23",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-24",
+          "value": 6.0
+        },
+        {
+          "date": "2026-02-25",
+          "value": 6.0
+        },
+        {
+          "date": "2026-02-26",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-27",
+          "value": 6.125
+        },
+        {
+          "date": "2026-02-28",
+          "value": 6.0
+        },
+        {
+          "date": "2026-03-01",
+          "value": 6.0
+        },
+        {
+          "date": "2026-03-02",
+          "value": 6.0
+        },
+        {
+          "date": "2026-03-03",
+          "value": 6.125
         }
       ]
     }
