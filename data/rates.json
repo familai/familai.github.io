@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-23T09:51:58.480833",
+  "updatedAt": "2026-04-24T09:51:35.719297",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.294,
-      "change": 0.002,
+      "value": 4.323,
+      "change": 0.029,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1346,13 +1346,17 @@
         {
           "date": "2026-04-22",
           "value": 4.294
+        },
+        {
+          "date": "2026-04-23",
+          "value": 4.323
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.3,
+      "value": 6.23,
       "change": -0.07,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
@@ -1638,6 +1642,10 @@
         {
           "date": "2026-04-16",
           "value": 6.3
+        },
+        {
+          "date": "2026-04-23",
+          "value": 6.23
         }
       ]
     },
@@ -1801,7 +1809,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 6.32,
-      "change": -0.01,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2302,6 +2310,10 @@
         {
           "date": "2026-04-23",
           "value": 6.32
+        },
+        {
+          "date": "2026-04-24",
+          "value": 6.32
         }
       ]
     },
@@ -2794,6 +2806,10 @@
         {
           "date": "2026-04-23",
           "value": 6.25
+        },
+        {
+          "date": "2026-04-24",
+          "value": 6.25
         }
       ]
     },
@@ -2801,7 +2817,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.5,
-      "change": 0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3217,6 +3233,10 @@
         },
         {
           "date": "2026-04-23",
+          "value": 6.5
+        },
+        {
+          "date": "2026-04-24",
           "value": 6.5
         }
       ]
