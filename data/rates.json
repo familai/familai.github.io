@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-30T10:14:29.865402",
+  "updatedAt": "2026-05-01T09:54:37.890534",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.418,
-      "change": 0.064,
+      "value": 4.39,
+      "change": -0.028,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1366,14 +1366,18 @@
         {
           "date": "2026-04-29",
           "value": 4.418
+        },
+        {
+          "date": "2026-04-30",
+          "value": 4.39
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.23,
-      "change": -0.07,
+      "value": 6.3,
+      "change": 0.07,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1662,6 +1666,10 @@
         {
           "date": "2026-04-23",
           "value": 6.23
+        },
+        {
+          "date": "2026-04-30",
+          "value": 6.3
         }
       ]
     },
@@ -1824,8 +1832,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.5,
-      "change": 0.12,
+      "value": 6.45,
+      "change": -0.05,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2354,6 +2362,10 @@
         {
           "date": "2026-04-30",
           "value": 6.5
+        },
+        {
+          "date": "2026-05-01",
+          "value": 6.45
         }
       ]
     },
@@ -2361,7 +2373,7 @@
       "id": "wf_30yr",
       "name": "Wells Fargo 30-Year Fixed",
       "value": 6.375,
-      "change": 0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Wells Fargo Online.",
       "source": "Wells Fargo",
@@ -2874,6 +2886,10 @@
         {
           "date": "2026-04-30",
           "value": 6.375
+        },
+        {
+          "date": "2026-05-01",
+          "value": 6.375
         }
       ]
     },
@@ -3325,6 +3341,10 @@
         },
         {
           "date": "2026-04-30",
+          "value": 6.5
+        },
+        {
+          "date": "2026-05-01",
           "value": 6.5
         }
       ]
