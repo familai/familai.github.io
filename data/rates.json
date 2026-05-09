@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-08T09:47:00.023900",
+  "updatedAt": "2026-05-09T09:27:15.772136",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.392,
-      "change": 0.036,
+      "value": 4.364,
+      "change": -0.028,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1390,6 +1390,10 @@
         {
           "date": "2026-05-07",
           "value": 4.392
+        },
+        {
+          "date": "2026-05-08",
+          "value": 4.364
         }
       ]
     },
@@ -1860,8 +1864,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.44,
-      "change": 0.0,
+      "value": 6.42,
+      "change": -0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2422,6 +2426,10 @@
         {
           "date": "2026-05-08",
           "value": 6.44
+        },
+        {
+          "date": "2026-05-09",
+          "value": 6.42
         }
       ]
     },
@@ -2974,6 +2982,10 @@
         {
           "date": "2026-05-08",
           "value": 6.375
+        },
+        {
+          "date": "2026-05-09",
+          "value": 6.375
         }
       ]
     },
@@ -2981,7 +2993,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.625,
-      "change": 0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3453,6 +3465,10 @@
         },
         {
           "date": "2026-05-08",
+          "value": 6.625
+        },
+        {
+          "date": "2026-05-09",
           "value": 6.625
         }
       ]
