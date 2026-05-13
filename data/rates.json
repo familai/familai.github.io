@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-12T10:39:27.570558",
+  "updatedAt": "2026-05-13T10:38:08.731764",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.41,
-      "change": 0.046,
+      "value": 4.463,
+      "change": 0.053,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1398,6 +1398,10 @@
         {
           "date": "2026-05-11",
           "value": 4.41
+        },
+        {
+          "date": "2026-05-12",
+          "value": 4.463
         }
       ]
     },
@@ -1708,8 +1712,8 @@
     {
       "id": "cpi",
       "name": "CPI (Inflation)",
-      "value": 330.293,
-      "change": 2.833,
+      "value": 332.407,
+      "change": 2.114,
       "unit": "",
       "description": "Consumer Price Index for All Urban Consumers: All Items.",
       "source": "FRED (St. Louis Fed)",
@@ -1778,6 +1782,10 @@
         {
           "date": "2026-03-01",
           "value": 330.293
+        },
+        {
+          "date": "2026-04-01",
+          "value": 332.407
         }
       ]
     },
@@ -1868,7 +1876,7 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.49,
+      "value": 6.56,
       "change": 0.07,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
@@ -2446,6 +2454,10 @@
         {
           "date": "2026-05-12",
           "value": 6.49
+        },
+        {
+          "date": "2026-05-13",
+          "value": 6.56
         }
       ]
     },
@@ -3014,6 +3026,10 @@
         {
           "date": "2026-05-12",
           "value": 6.375
+        },
+        {
+          "date": "2026-05-13",
+          "value": 6.375
         }
       ]
     },
@@ -3509,6 +3525,10 @@
         },
         {
           "date": "2026-05-12",
+          "value": 6.625
+        },
+        {
+          "date": "2026-05-13",
           "value": 6.625
         }
       ]
