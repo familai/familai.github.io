@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-21T11:33:47.320001",
+  "updatedAt": "2026-05-22T10:57:33.518440",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.572,
-      "change": -0.095,
+      "value": 4.586,
+      "change": 0.014,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1426,14 +1426,18 @@
         {
           "date": "2026-05-20",
           "value": 4.572
+        },
+        {
+          "date": "2026-05-21",
+          "value": 4.586
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.36,
-      "change": -0.01,
+      "value": 6.51,
+      "change": 0.15,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1734,6 +1738,10 @@
         {
           "date": "2026-05-14",
           "value": 6.36
+        },
+        {
+          "date": "2026-05-21",
+          "value": 6.51
         }
       ]
     },
@@ -1904,8 +1912,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.67,
-      "change": -0.08,
+      "value": 6.65,
+      "change": -0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2518,6 +2526,10 @@
         {
           "date": "2026-05-21",
           "value": 6.67
+        },
+        {
+          "date": "2026-05-22",
+          "value": 6.65
         }
       ]
     },
@@ -2525,7 +2537,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.75,
-      "change": 0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3041,6 +3053,10 @@
         },
         {
           "date": "2026-05-20",
+          "value": 6.75
+        },
+        {
+          "date": "2026-05-22",
           "value": 6.75
         }
       ]
