@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T10:01:37.776029",
+  "updatedAt": "2026-05-24T10:02:25.238240",
   "metrics": [
     {
       "id": "tnx",
@@ -2538,6 +2538,10 @@
         {
           "date": "2026-05-23",
           "value": 6.65
+        },
+        {
+          "date": "2026-05-24",
+          "value": 6.65
         }
       ]
     },
@@ -2545,7 +2549,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.625,
-      "change": -0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3069,6 +3073,10 @@
         },
         {
           "date": "2026-05-23",
+          "value": 6.625
+        },
+        {
+          "date": "2026-05-24",
           "value": 6.625
         }
       ]
