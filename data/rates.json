@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T11:56:05.467141",
+  "updatedAt": "2026-06-19T12:15:14.367342",
   "metrics": [
     {
       "id": "tnx",
@@ -1504,8 +1504,8 @@
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.52,
-      "change": 0.04,
+      "value": 6.47,
+      "change": -0.05,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1822,6 +1822,10 @@
         {
           "date": "2026-06-11",
           "value": 6.52
+        },
+        {
+          "date": "2026-06-18",
+          "value": 6.47
         }
       ]
     },
@@ -2000,8 +2004,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.62,
-      "change": 0.08,
+      "value": 6.58,
+      "change": -0.04,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2718,14 +2722,18 @@
         {
           "date": "2026-06-18",
           "value": 6.62
+        },
+        {
+          "date": "2026-06-19",
+          "value": 6.58
         }
       ]
     },
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 6.625,
-      "change": 0.125,
+      "value": 6.5,
+      "change": -0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3326,6 +3334,10 @@
         {
           "date": "2026-06-18",
           "value": 6.625
+        },
+        {
+          "date": "2026-06-19",
+          "value": 6.5
         }
       ]
     },
