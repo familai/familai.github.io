@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T10:49:43.854280",
+  "updatedAt": "2026-06-26T10:58:12.365944",
   "metrics": [
     {
       "id": "tnx",
@@ -1516,8 +1516,8 @@
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.47,
-      "change": -0.05,
+      "value": 6.49,
+      "change": 0.02,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -1838,6 +1838,10 @@
         {
           "date": "2026-06-18",
           "value": 6.47
+        },
+        {
+          "date": "2026-06-25",
+          "value": 6.49
         }
       ]
     },
@@ -2016,8 +2020,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.55,
-      "change": -0.1,
+      "value": 6.53,
+      "change": -0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2762,6 +2766,10 @@
         {
           "date": "2026-06-25",
           "value": 6.55
+        },
+        {
+          "date": "2026-06-26",
+          "value": 6.53
         }
       ]
     },
