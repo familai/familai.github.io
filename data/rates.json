@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T11:31:16.425575",
+  "updatedAt": "2026-07-02T10:49:08.058626",
   "metrics": [
     {
       "id": "tnx",
@@ -1953,7 +1953,7 @@
       "id": "fed_funds",
       "name": "Federal Funds Rate",
       "value": 3.63,
-      "change": -0.01,
+      "change": 0.0,
       "unit": "%",
       "description": "Interest rate at which depository institutions trade federal funds.",
       "source": "FRED (St. Louis Fed)",
@@ -2034,14 +2034,18 @@
         {
           "date": "2026-05-01",
           "value": 3.63
+        },
+        {
+          "date": "2026-06-01",
+          "value": 3.63
         }
       ]
     },
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.54,
-      "change": 0.02,
+      "value": 6.65,
+      "change": 0.11,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2810,6 +2814,10 @@
         {
           "date": "2026-07-01",
           "value": 6.54
+        },
+        {
+          "date": "2026-07-02",
+          "value": 6.65
         }
       ]
     },
@@ -2817,7 +2825,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 6.625,
-      "change": 0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -3465,6 +3473,10 @@
         },
         {
           "date": "2026-07-01",
+          "value": 6.625
+        },
+        {
+          "date": "2026-07-02",
           "value": 6.625
         }
       ]
