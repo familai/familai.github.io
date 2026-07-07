@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T12:11:45.864449",
+  "updatedAt": "2026-07-07T11:16:25.847434",
   "metrics": [
     {
       "id": "tnx",
@@ -2060,8 +2060,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.6,
-      "change": 0.0,
+      "value": 6.59,
+      "change": -0.01,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2850,6 +2850,10 @@
         {
           "date": "2026-07-06",
           "value": 6.6
+        },
+        {
+          "date": "2026-07-07",
+          "value": 6.59
         }
       ]
     },
@@ -3525,6 +3529,10 @@
         },
         {
           "date": "2026-07-06",
+          "value": 6.625
+        },
+        {
+          "date": "2026-07-07",
           "value": 6.625
         }
       ]
