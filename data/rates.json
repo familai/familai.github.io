@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T10:06:30.110612",
+  "updatedAt": "2026-07-15T10:10:02.564694",
   "metrics": [
     {
       "id": "tnx",
@@ -1912,8 +1912,8 @@
     {
       "id": "cpi",
       "name": "CPI (Inflation)",
-      "value": 333.979,
-      "change": 1.572,
+      "value": 332.568,
+      "change": -1.411,
       "unit": "",
       "description": "Consumer Price Index for All Urban Consumers: All Items.",
       "source": "FRED (St. Louis Fed)",
@@ -1990,6 +1990,10 @@
         {
           "date": "2026-05-01",
           "value": 333.979
+        },
+        {
+          "date": "2026-06-01",
+          "value": 332.568
         }
       ]
     },
@@ -2088,8 +2092,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.75,
-      "change": 0.11,
+      "value": 6.7,
+      "change": -0.05,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2906,6 +2910,10 @@
         {
           "date": "2026-07-14",
           "value": 6.75
+        },
+        {
+          "date": "2026-07-15",
+          "value": 6.7
         }
       ]
     },
@@ -3609,6 +3617,10 @@
         },
         {
           "date": "2026-07-14",
+          "value": 6.75
+        },
+        {
+          "date": "2026-07-15",
           "value": 6.75
         }
       ]
