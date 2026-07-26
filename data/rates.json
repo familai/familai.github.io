@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-25T09:56:56.557842",
+  "updatedAt": "2026-07-26T10:08:50.745498",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.679,
+      "value": 4.703,
       "change": -0.024,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
@@ -2137,7 +2137,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 6.81,
-      "change": -0.04,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -2998,6 +2998,10 @@
         {
           "date": "2026-07-25",
           "value": 6.81
+        },
+        {
+          "date": "2026-07-26",
+          "value": 6.81
         }
       ]
     },
@@ -3745,6 +3749,10 @@
         },
         {
           "date": "2026-07-25",
+          "value": 6.875
+        },
+        {
+          "date": "2026-07-26",
           "value": 6.875
         }
       ]
