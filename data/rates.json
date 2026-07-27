@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-26T10:08:50.745498",
+  "updatedAt": "2026-07-27T11:33:25.759261",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.703,
+      "value": 4.679,
       "change": -0.024,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
@@ -3002,6 +3002,10 @@
         {
           "date": "2026-07-26",
           "value": 6.81
+        },
+        {
+          "date": "2026-07-27",
+          "value": 6.81
         }
       ]
     },
@@ -3753,6 +3757,10 @@
         },
         {
           "date": "2026-07-26",
+          "value": 6.875
+        },
+        {
+          "date": "2026-07-27",
           "value": 6.875
         }
       ]
