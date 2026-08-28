@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-27T19:02:03.403582",
+  "updatedAt": "2026-08-28T20:09:53.433590",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.674,
-      "change": 0.01,
+      "value": 4.72,
+      "change": 0.048,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1697,7 +1697,11 @@
         },
         {
           "date": "2026-08-27",
-          "value": 4.674
+          "value": 4.672
+        },
+        {
+          "date": "2026-08-28",
+          "value": 4.72
         }
       ]
     },
@@ -2260,8 +2264,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.75,
-      "change": 0.01,
+      "value": 6.81,
+      "change": 0.06,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3254,14 +3258,34 @@
         {
           "date": "2026-08-27",
           "value": 6.75
+        },
+        {
+          "date": "2026-08-28",
+          "value": 6.81
+        }
+      ]
+    },
+    {
+      "id": "chase_30yr",
+      "name": "Chase 30-Year Fixed",
+      "value": 6.375,
+      "change": 0.0,
+      "unit": "%",
+      "description": "Current 30-Year Fixed Rate from Chase.",
+      "source": "Chase",
+      "category": "lender",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "value": 6.375
         }
       ]
     },
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 6.75,
-      "change": 0.0,
+      "value": 6.875,
+      "change": 0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -4118,6 +4142,10 @@
         {
           "date": "2026-08-27",
           "value": 6.75
+        },
+        {
+          "date": "2026-08-28",
+          "value": 6.875
         }
       ]
     },
