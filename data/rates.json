@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T13:26:05.681248",
+  "updatedAt": "2026-09-02T12:43:29.385335",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.784,
-      "change": 0.026,
+      "value": 4.776,
+      "change": -0.02,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1709,7 +1709,11 @@
         },
         {
           "date": "2026-09-01",
-          "value": 4.784
+          "value": 4.796
+        },
+        {
+          "date": "2026-09-02",
+          "value": 4.776
         }
       ]
     },
@@ -2266,14 +2270,18 @@
         {
           "date": "2026-07-01",
           "value": 3.63
+        },
+        {
+          "date": "2026-08-01",
+          "value": 3.63
         }
       ]
     },
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.87,
-      "change": 0.06,
+      "value": 6.89,
+      "change": 0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3286,14 +3294,18 @@
         {
           "date": "2026-09-01",
           "value": 6.87
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.89
         }
       ]
     },
     {
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
-      "value": 6.673,
-      "change": 0.298,
+      "value": 6.49,
+      "change": -0.183,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -3310,6 +3322,10 @@
         {
           "date": "2026-09-01",
           "value": 6.673
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.49
         }
       ]
     },
@@ -4189,6 +4205,10 @@
         },
         {
           "date": "2026-09-01",
+          "value": 6.875
+        },
+        {
+          "date": "2026-09-02",
           "value": 6.875
         }
       ]
