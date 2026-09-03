@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02T12:43:29.385335",
+  "updatedAt": "2026-09-03T12:46:24.892197",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.776,
-      "change": -0.02,
+      "value": 4.766,
+      "change": -0.03,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1713,7 +1713,11 @@
         },
         {
           "date": "2026-09-02",
-          "value": 4.776
+          "value": 4.796
+        },
+        {
+          "date": "2026-09-03",
+          "value": 4.766
         }
       ]
     },
@@ -2280,7 +2284,7 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.89,
+      "value": 6.91,
       "change": 0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
@@ -3298,34 +3302,10 @@
         {
           "date": "2026-09-02",
           "value": 6.89
-        }
-      ]
-    },
-    {
-      "id": "chase_30yr",
-      "name": "Chase 30-Year Fixed",
-      "value": 6.49,
-      "change": -0.183,
-      "unit": "%",
-      "description": "Current 30-Year Fixed Rate from Chase.",
-      "source": "Chase",
-      "category": "lender",
-      "history": [
-        {
-          "date": "2026-08-28",
-          "value": 6.375
         },
         {
-          "date": "2026-08-30",
-          "value": 6.375
-        },
-        {
-          "date": "2026-09-01",
-          "value": 6.673
-        },
-        {
-          "date": "2026-09-02",
-          "value": 6.49
+          "date": "2026-09-03",
+          "value": 6.91
         }
       ]
     },
@@ -4210,6 +4190,38 @@
         {
           "date": "2026-09-02",
           "value": 6.875
+        },
+        {
+          "date": "2026-09-03",
+          "value": 6.875
+        }
+      ]
+    },
+    {
+      "id": "chase_30yr",
+      "name": "Chase 30-Year Fixed",
+      "value": 6.49,
+      "change": -0.183,
+      "unit": "%",
+      "description": "Current 30-Year Fixed Rate from Chase.",
+      "source": "Chase",
+      "category": "lender",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "value": 6.375
+        },
+        {
+          "date": "2026-08-30",
+          "value": 6.375
+        },
+        {
+          "date": "2026-09-01",
+          "value": 6.673
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.49
         }
       ]
     },
