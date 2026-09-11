@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-10T12:51:59.804293",
+  "updatedAt": "2026-09-11T12:46:34.376500",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.897,
-      "change": 0.06,
+      "value": 4.981,
+      "change": 0.037,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1733,14 +1733,18 @@
         },
         {
           "date": "2026-09-10",
-          "value": 4.897
+          "value": 4.944
+        },
+        {
+          "date": "2026-09-11",
+          "value": 4.981
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 6.71,
+      "value": 6.76,
       "change": 0.05,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
@@ -2106,6 +2110,10 @@
         {
           "date": "2026-09-03",
           "value": 6.71
+        },
+        {
+          "date": "2026-09-10",
+          "value": 6.76
         }
       ]
     },
@@ -2304,8 +2312,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 6.97,
-      "change": 0.08,
+      "value": 7.07,
+      "change": 0.1,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3354,14 +3362,18 @@
         {
           "date": "2026-09-10",
           "value": 6.97
+        },
+        {
+          "date": "2026-09-11",
+          "value": 7.07
         }
       ]
     },
     {
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
-      "value": 6.713,
-      "change": 0.014,
+      "value": 6.75,
+      "change": 0.037,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -3406,13 +3418,17 @@
         {
           "date": "2026-09-10",
           "value": 6.713
+        },
+        {
+          "date": "2026-09-11",
+          "value": 6.75
         }
       ]
     },
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 7.0,
+      "value": 7.125,
       "change": 0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
@@ -4322,6 +4338,10 @@
         {
           "date": "2026-09-10",
           "value": 7.0
+        },
+        {
+          "date": "2026-09-11",
+          "value": 7.125
         }
       ]
     },
