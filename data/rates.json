@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-13T13:16:19.870858",
+  "updatedAt": "2026-09-14T14:57:26.640305",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.975,
-      "change": 0.031,
+      "value": 5.002,
+      "change": 0.027,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1738,6 +1738,10 @@
         {
           "date": "2026-09-11",
           "value": 4.975
+        },
+        {
+          "date": "2026-09-14",
+          "value": 5.002
         }
       ]
     },
@@ -3378,6 +3382,10 @@
         {
           "date": "2026-09-13",
           "value": 7.12
+        },
+        {
+          "date": "2026-09-14",
+          "value": 7.12
         }
       ]
     },
@@ -3441,6 +3449,10 @@
         },
         {
           "date": "2026-09-13",
+          "value": 6.929
+        },
+        {
+          "date": "2026-09-14",
           "value": 6.929
         }
       ]
@@ -4369,6 +4381,10 @@
         },
         {
           "date": "2026-09-13",
+          "value": 7.125
+        },
+        {
+          "date": "2026-09-14",
           "value": 7.125
         }
       ]
