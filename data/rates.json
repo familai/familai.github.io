@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-16T13:24:14.981608",
+  "updatedAt": "2026-09-17T13:20:00.630308",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.975,
-      "change": -0.021,
+      "value": 4.949,
+      "change": -0.057,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1749,7 +1749,11 @@
         },
         {
           "date": "2026-09-16",
-          "value": 4.975
+          "value": 5.006
+        },
+        {
+          "date": "2026-09-17",
+          "value": 4.949
         }
       ]
     },
@@ -2328,8 +2332,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 7.22,
-      "change": 0.05,
+      "value": 7.24,
+      "change": 0.02,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3402,89 +3406,17 @@
         {
           "date": "2026-09-16",
           "value": 7.22
-        }
-      ]
-    },
-    {
-      "id": "chase_30yr",
-      "name": "Chase 30-Year Fixed",
-      "value": 6.962,
-      "change": 0.019,
-      "unit": "%",
-      "description": "Current 30-Year Fixed Rate from Chase.",
-      "source": "Chase",
-      "category": "lender",
-      "history": [
-        {
-          "date": "2026-08-28",
-          "value": 6.375
         },
         {
-          "date": "2026-08-30",
-          "value": 6.375
-        },
-        {
-          "date": "2026-09-01",
-          "value": 6.673
-        },
-        {
-          "date": "2026-09-02",
-          "value": 6.49
-        },
-        {
-          "date": "2026-09-04",
-          "value": 6.375
-        },
-        {
-          "date": "2026-09-05",
-          "value": 6.699
-        },
-        {
-          "date": "2026-09-06",
-          "value": 6.699
-        },
-        {
-          "date": "2026-09-07",
-          "value": 6.699
-        },
-        {
-          "date": "2026-09-08",
-          "value": 6.699
-        },
-        {
-          "date": "2026-09-10",
-          "value": 6.713
-        },
-        {
-          "date": "2026-09-11",
-          "value": 6.75
-        },
-        {
-          "date": "2026-09-12",
-          "value": 6.929
-        },
-        {
-          "date": "2026-09-13",
-          "value": 6.929
-        },
-        {
-          "date": "2026-09-14",
-          "value": 6.929
-        },
-        {
-          "date": "2026-09-15",
-          "value": 6.943
-        },
-        {
-          "date": "2026-09-16",
-          "value": 6.962
+          "date": "2026-09-17",
+          "value": 7.24
         }
       ]
     },
     {
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
-      "value": 7.25,
+      "value": 7.375,
       "change": 0.125,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
@@ -4418,6 +4350,86 @@
         {
           "date": "2026-09-16",
           "value": 7.25
+        },
+        {
+          "date": "2026-09-17",
+          "value": 7.375
+        }
+      ]
+    },
+    {
+      "id": "chase_30yr",
+      "name": "Chase 30-Year Fixed",
+      "value": 6.962,
+      "change": 0.019,
+      "unit": "%",
+      "description": "Current 30-Year Fixed Rate from Chase.",
+      "source": "Chase",
+      "category": "lender",
+      "history": [
+        {
+          "date": "2026-08-28",
+          "value": 6.375
+        },
+        {
+          "date": "2026-08-30",
+          "value": 6.375
+        },
+        {
+          "date": "2026-09-01",
+          "value": 6.673
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.49
+        },
+        {
+          "date": "2026-09-04",
+          "value": 6.375
+        },
+        {
+          "date": "2026-09-05",
+          "value": 6.699
+        },
+        {
+          "date": "2026-09-06",
+          "value": 6.699
+        },
+        {
+          "date": "2026-09-07",
+          "value": 6.699
+        },
+        {
+          "date": "2026-09-08",
+          "value": 6.699
+        },
+        {
+          "date": "2026-09-10",
+          "value": 6.713
+        },
+        {
+          "date": "2026-09-11",
+          "value": 6.75
+        },
+        {
+          "date": "2026-09-12",
+          "value": 6.929
+        },
+        {
+          "date": "2026-09-13",
+          "value": 6.929
+        },
+        {
+          "date": "2026-09-14",
+          "value": 6.929
+        },
+        {
+          "date": "2026-09-15",
+          "value": 6.943
+        },
+        {
+          "date": "2026-09-16",
+          "value": 6.962
         }
       ]
     },
