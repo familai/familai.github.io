@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-27T13:48:37.612378",
+  "updatedAt": "2026-09-28T16:41:52.745870",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 5.184,
-      "change": 0.022,
+      "value": 5.23,
+      "change": 0.046,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1778,6 +1778,10 @@
         {
           "date": "2026-09-25",
           "value": 5.184
+        },
+        {
+          "date": "2026-09-28",
+          "value": 5.23
         }
       ]
     },
@@ -2364,8 +2368,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 7.43,
-      "change": 0.0,
+      "value": 7.5,
+      "change": 0.07,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3482,14 +3486,18 @@
         {
           "date": "2026-09-27",
           "value": 7.43
+        },
+        {
+          "date": "2026-09-28",
+          "value": 7.5
         }
       ]
     },
     {
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
-      "value": 7.189,
-      "change": 0.253,
+      "value": 7.125,
+      "change": -0.064,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -3574,6 +3582,10 @@
         {
           "date": "2026-09-27",
           "value": 7.189
+        },
+        {
+          "date": "2026-09-28",
+          "value": 7.125
         }
       ]
     },
@@ -4557,6 +4569,10 @@
         },
         {
           "date": "2026-09-27",
+          "value": 7.5
+        },
+        {
+          "date": "2026-09-28",
           "value": 7.5
         }
       ]
