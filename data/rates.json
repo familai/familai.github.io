@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:06:07.710773",
+  "updatedAt": "2026-10-18T12:33:55.165522",
   "metrics": [
     {
       "id": "tnx",
@@ -2445,7 +2445,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 7.37,
-      "change": 0.04,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3642,6 +3642,10 @@
         {
           "date": "2026-10-17",
           "value": 7.37
+        },
+        {
+          "date": "2026-10-18",
+          "value": 7.37
         }
       ]
     },
@@ -3649,7 +3653,7 @@
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
       "value": 7.203,
-      "change": 0.078,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -3794,6 +3798,10 @@
         {
           "date": "2026-10-17",
           "value": 7.203
+        },
+        {
+          "date": "2026-10-18",
+          "value": 7.203
         }
       ]
     },
@@ -3801,7 +3809,7 @@
       "id": "boa_30yr",
       "name": "Bank of America 30-Year Fixed",
       "value": 7.375,
-      "change": -0.125,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Bank of America.",
       "source": "Bank of America",
@@ -4857,6 +4865,10 @@
         },
         {
           "date": "2026-10-17",
+          "value": 7.375
+        },
+        {
+          "date": "2026-10-18",
           "value": 7.375
         }
       ]
