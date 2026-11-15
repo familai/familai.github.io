@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:56:27.118005",
+  "updatedAt": "2026-11-15T15:33:40.781660",
   "metrics": [
     {
       "id": "tnx",
@@ -2549,7 +2549,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 7.5,
-      "change": 0.08,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3858,6 +3858,10 @@
         {
           "date": "2026-11-14",
           "value": 7.5
+        },
+        {
+          "date": "2026-11-15",
+          "value": 7.5
         }
       ]
     },
@@ -3865,7 +3869,7 @@
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
       "value": 7.125,
-      "change": 0.135,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -4081,6 +4085,10 @@
         },
         {
           "date": "2026-11-13",
+          "value": 7.125
+        },
+        {
+          "date": "2026-11-15",
           "value": 7.125
         }
       ]
