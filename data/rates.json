@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:02:23.485490",
+  "updatedAt": "2026-11-22T16:09:37.603038",
   "metrics": [
     {
       "id": "tnx",
@@ -2573,7 +2573,7 @@
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
       "value": 7.33,
-      "change": -0.12,
+      "change": 0.0,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3909,6 +3909,10 @@
         },
         {
           "date": "2026-11-21",
+          "value": 7.33
+        },
+        {
+          "date": "2026-11-22",
           "value": 7.33
         }
       ]
