@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T19:28:09.188394",
+  "updatedAt": "2026-11-25T18:35:24.213427",
   "metrics": [
     {
       "id": "tnx",
       "name": "10-Year Treasury Yield",
-      "value": 4.908,
-      "change": -0.01,
+      "value": 4.838,
+      "change": -0.066,
       "unit": "%",
       "description": "The yield on the benchmark 10-year U.S. Treasury note, a key indicator for mortgage rates.",
       "source": "Yahoo Finance",
@@ -1945,15 +1945,19 @@
         },
         {
           "date": "2026-11-24",
-          "value": 4.908
+          "value": 4.904
+        },
+        {
+          "date": "2026-11-25",
+          "value": 4.838
         }
       ]
     },
     {
       "id": "mortgage30us",
       "name": "30-Year Fixed Mortgage Rate (FRED)",
-      "value": 7.28,
-      "change": 0.17,
+      "value": 7.21,
+      "change": -0.07,
       "unit": "%",
       "description": "Weekly average interest rate on 30-year fixed-rate mortgages.",
       "source": "FRED (St. Louis Fed)",
@@ -2362,6 +2366,10 @@
         {
           "date": "2026-11-19",
           "value": 7.28
+        },
+        {
+          "date": "2026-11-25",
+          "value": 7.21
         }
       ]
     },
@@ -2580,8 +2588,8 @@
     {
       "id": "mnd_30yr",
       "name": "30-Year Fixed Rate (Daily Survey)",
-      "value": 7.32,
-      "change": -0.02,
+      "value": 7.29,
+      "change": -0.03,
       "unit": "%",
       "description": "Daily survey of mortgage lenders conducted by Mortgage News Daily.",
       "source": "Mortgage News Daily",
@@ -3930,6 +3938,10 @@
         {
           "date": "2026-11-24",
           "value": 7.32
+        },
+        {
+          "date": "2026-11-25",
+          "value": 7.29
         }
       ]
     },
@@ -3937,7 +3949,7 @@
       "id": "chase_30yr",
       "name": "Chase 30-Year Fixed",
       "value": 6.875,
-      "change": -0.115,
+      "change": 0.0,
       "unit": "%",
       "description": "Current 30-Year Fixed Rate from Chase.",
       "source": "Chase",
@@ -4181,6 +4193,10 @@
         },
         {
           "date": "2026-11-23",
+          "value": 6.875
+        },
+        {
+          "date": "2026-11-25",
           "value": 6.875
         }
       ]
